@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "compress-images": "^2.0.4",
+    "pngquant-bin": "^6.0.1"
+  },
+  "name": "img-compress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "michael",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
